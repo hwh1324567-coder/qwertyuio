@@ -1,0 +1,5 @@
+{
+  "name": "Remix: 江苏烟草智慧监管数据看板（进阶版）",
+  "description": "江苏烟草智慧监管数据看板首页，包含地图、核心指标、漏斗图、风险排名和待办事项。",
+  "requestFramePermissions": []
+}
